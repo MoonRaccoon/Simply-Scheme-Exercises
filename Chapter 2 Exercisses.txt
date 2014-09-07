@@ -1,0 +1,50 @@
+2.2. What is the domain of the vowel? function?
+
+A: All numbers and letters.
+
+2.3. One of the functions you can use is called appearances. Experiment
+with it, and then describe fully its domain and range, and what it does.
+
+A: The domain is all numbers, the range is only the number zero.
+The function takes as it's input two numbers and outputs 0.
+
+2.4 One of the functions you can use is called item. Experiment with
+it, and then describe fully its domain and range, and what it does.
+
+A: The domain is all numbers, words, and sentences. The range is the
+same. The function takes as it's input a number, say N, and a sentence
+or word. Depending on the type of the second input, the function
+will output the Nth character if it is a word, or the Nth word if it
+is a sentence.
+
+
+2.5 List the one-argument functions in this chapter for which the type
+of the return value is always different from the type of the argument.
+
+A:  <=, <, =, >=, >, equal?, every, even?, last, number?, number-of-arguments,
+odd?, vowel?.
+
+2.6. List the one-argument functions in this chapter for which the
+type of the return value is sometimes different from the type of 
+the argument.
+
+A: Count.
+
+2.7.  Mathematicians sometimes use the term "operator" to mean a function
+of two arguments, both of the same type, that returns a result of the same
+type. Which of the functions you've seen in this chapter satisfy that 
+definition?
+
+A: +, -, /, *,  and, or, remainder, word.
+
+2.8. An operator f is commutative if f(a,b)=f(b,a) for all possible arguments
+A and B. For example, + is commutative, but word isn't. Which of the 
+operators from Exercise 2.7 are commutative?
+
+A: +, *, and, or.
+
+2.9. An operator f is associative if f(f(a,b),c)=f(a,f(f(b,c)) for all
+possible arguments A, B, and C. For example, * is associative, but not /
+. Which of the operators from Exercise 2.7 are associative?
+
+A:  *, +.

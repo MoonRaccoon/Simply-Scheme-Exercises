@@ -1,0 +1,6 @@
+> (acronym '(Federal Bureau of Investigation))
+"FBI"
+> (acronym '(Central Intelligence Agency))
+"CIA"
+> (acronym '(Holy Sect of Divine Jelly))
+"HSDJ"
